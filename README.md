@@ -11,7 +11,7 @@ a collection of the ruby gems that are of the frequent use in my bioinformatics 
 
 This push is through the git kraken as a part of the Universitat Potsdam and Github. 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
